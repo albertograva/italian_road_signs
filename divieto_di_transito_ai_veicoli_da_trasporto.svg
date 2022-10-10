@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44+devel"
+   sodipodi:docname="Italian traffic signs - divieto di sorpasso per veicoli oltre 3,5t.svg"
+   sodipodi:docbase="C:\Documents and Settings\Flanker\Desktop\Temporanei\Segnali"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="4.015"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5" />
+  <path
+     d="M 177.18833 110.61008 A 85.676392 85.676392 0 1 1  5.8355484,110.61008 A 85.676392 85.676392 0 1 1  177.18833 110.61008 z"
+     transform="matrix(1.167183,0,0,1.167183,-6.811181,-29.1022)"
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1873" />
+  <path
+     d="M 55.172415 -13.793103 A 26.5252 26.5252 0 1 1  2.122015,-13.793103 A 26.5252 26.5252 0 1 1  55.172415 -13.793103 z"
+     transform="matrix(3.7323,0,0,3.7323,-6.92,151.48)"
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1875" />
+  <path
+     d="M -125.19894 -42.440319 A 12.997348 12.732096 0 1 1  -151.19364,-42.440319 A 12.997348 12.732096 0 1 1  -125.19894 -42.440319 z"
+     transform="matrix(7.463061,0,0,7.618542,1131.367,423.3334)"
+     style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1877" />
+  <path
+     sodipodi:type="arc"
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1874"
+     sodipodi:cx="76.92308"
+     sodipodi:cy="89.655174"
+     sodipodi:rx="40.318302"
+     sodipodi:ry="34.482758"
+     d="M 117.24138 89.655174 A 40.318302 34.482758 0 1 1  36.604778,89.655174 A 40.318302 34.482758 0 1 1  117.24138 89.655174 z"
+     transform="matrix(1.785789,0,0,2.088,-37.36839,-87.2)" />
+  <path
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 70.274498,69.26401 L 70.274498,111.38449 L 159.13535,111.38449 L 159.13535,69.26401 L 70.274498,69.26401 z M 46.994545,81.066405 L 39.992512,99.148976 L 39.992512,123.47562 L 43.601807,123.47562 C 43.601809,116.48111 49.27592,110.807 56.270433,110.807 C 63.264945,110.807 68.975152,116.48111 68.975152,123.47562 L 120.66026,123.47562 C 120.66026,119.01174 122.98006,115.08558 126.47123,112.82821 L 68.830779,112.82821 L 68.830779,81.066405 L 46.994545,81.066405 z M 49.01575,85.866767 L 65.618507,85.866767 L 65.618507,97.957906 L 44.359759,97.957906 L 49.01575,85.866767 z M 56.306526,112.68383 C 50.357172,112.68383 45.514733,117.49018 45.514734,123.43953 C 45.514734,129.38889 50.357173,134.23132 56.306526,134.23132 C 62.25588,134.23132 67.062222,129.38889 67.062225,123.43953 C 67.062225,117.49018 62.255882,112.68383 56.306526,112.68383 z M 133.36498,112.68383 C 127.41564,112.68383 122.57319,117.49018 122.57319,123.43953 C 122.57319,129.38889 127.41563,134.23132 133.36498,134.23132 C 139.31435,134.23132 144.12068,129.38889 144.12068,123.43953 C 144.12069,117.49018 139.31434,112.68383 133.36498,112.68383 z M 140.18655,112.82821 C 143.42155,114.91994 145.65266,118.4434 145.96142,122.50112 L 159.13535,116.90671 L 159.13535,112.82821 L 140.18655,112.82821 z M 56.306526,118.35043 C 59.120413,118.35043 61.395632,120.62565 61.395632,123.43953 C 61.39563,126.25342 59.120411,128.56474 56.306526,128.56474 C 53.492642,128.56474 51.21742,126.25342 51.21742,123.43953 C 51.217421,120.62565 53.492641,118.35043 56.306526,118.35043 z M 133.36498,118.35043 C 136.17888,118.35043 138.45409,120.62565 138.45409,123.43953 C 138.45411,126.25342 136.17886,128.56474 133.36498,128.56474 C 130.5511,128.56474 128.27588,126.25342 128.27588,123.43953 C 128.27588,120.62565 130.5511,118.35043 133.36498,118.35043 z "
+     id="rect1885" />
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="600"
+   height="600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Italian_traffic_signs_-_divieto_di_sosta.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.2445079"
+     inkscape:cx="134.9459"
+     inkscape:cy="314.38403"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2"
+     width="200px"
+     height="200px"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4" />
+  <g
+     id="g1882"
+     transform="matrix(3,0,0,3,-776.09399,52.538009)" />
+  <g
+     id="g2461"
+     transform="matrix(3,0,0,3,-471.70599,24.541009)" />
+  <path
+     d="M 600,300 C 600.0277,465.67729 465.70502,600 300,600 134.29496,600 -0.02772571,465.67729 4.2927295e-6,300 -0.02772571,134.3227 134.29496,0 300,0 465.70502,0 600.02773,134.3227 600,300 l 0,0 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path1873" />
+  <path
+     d="M 596.99993,300 C 596.99993,464.02853 464.02854,596.99993 300,596.99993 135.97146,596.99993 3.0000743,464.02853 3.0000743,300 3.0000743,135.97146 135.97146,3.0000675 300,3.0000675 464.02854,3.0000675 596.99993,135.97146 596.99993,300 l 0,0 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path1875" />
+  <path
+     style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="M 300,9.00008 C 139.28515,9.00008 9.0000868,139.28515 9.0000868,300 9.0000868,460.71485 139.28516,590.99989 300,590.99992 460.71485,590.99992 590.99989,460.71485 590.99992,300 590.99992,139.28514 460.71485,9.00008 300,9.00008 z m 0,74.99998 c 119.23194,0 215.99994,96.76797 215.99994,215.99994 0,53.37341 -19.44599,102.16956 -51.56248,139.87496 L 160.12504,135.56254 C 197.83043,103.44606 246.62662,84.00006 300,84.00006 z M 133.50004,162.46879 437.53121,466.59371 C 400.16634,497.49253 352.23647,515.99994 300,515.99994 180.76807,515.99994 84.000067,419.23197 84.000067,300 c 0,-52.25846 18.577793,-100.15953 49.499973,-137.53121 z"
+     id="path1877" />
+  <path
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-opacity:1;stroke-width:11;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 300,93.00006 c -47.62582,0 -91.47905,16.15348 -126.46872,43.21873 L 463.78121,426.46872 C 490.84645,391.47904 506.99994,347.62583 506.99994,300 506.99994,185.73603 414.26394,93.00006 300,93.00006 z M 134.25004,175.96878 C 108.3392,210.53685 93.000067,253.50605 93.000067,300 c 0,114.26397 92.735993,206.99994 206.999933,206.99994 46.49393,0 89.46316,-15.33914 124.03122,-41.24998 L 134.25004,175.96878 z"
+     id="path2770"
+     sodipodi:nodetypes="cccsccsscc" />
+</svg>

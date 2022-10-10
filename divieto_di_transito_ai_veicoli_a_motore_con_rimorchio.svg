@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44+devel"
+   sodipodi:docname="Italian traffic signs - divieto di transito ai veicoli da trasporto.svg"
+   sodipodi:docbase="C:\Documents and Settings\Flanker\Desktop\Temporanei\Segnali"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="4.015"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5" />
+  <path
+     d="M 177.18833 110.61008 A 85.676392 85.676392 0 1 1  5.8355484,110.61008 A 85.676392 85.676392 0 1 1  177.18833 110.61008 z"
+     transform="matrix(1.167183,0,0,1.167183,-6.811181,-29.1022)"
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1873" />
+  <path
+     d="M 55.172415 -13.793103 A 26.5252 26.5252 0 1 1  2.122015,-13.793103 A 26.5252 26.5252 0 1 1  55.172415 -13.793103 z"
+     transform="matrix(3.7323,0,0,3.7323,-6.92,151.48)"
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1875" />
+  <path
+     d="M -125.19894 -42.440319 A 12.997348 12.732096 0 1 1  -151.19364,-42.440319 A 12.997348 12.732096 0 1 1  -125.19894 -42.440319 z"
+     transform="matrix(7.463061,0,0,7.618542,1131.367,423.3334)"
+     style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1877" />
+  <path
+     sodipodi:type="arc"
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1874"
+     sodipodi:cx="76.92308"
+     sodipodi:cy="89.655174"
+     sodipodi:rx="40.318302"
+     sodipodi:ry="34.482758"
+     d="M 117.24138 89.655174 A 40.318302 34.482758 0 1 1  36.604778,89.655174 A 40.318302 34.482758 0 1 1  117.24138 89.655174 z"
+     transform="matrix(1.785789,0,0,2.088,-37.36839,-87.2)" />
+  <path
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 37.1875,71.5 C 33.234023,80.192655 31,89.833368 31,100 C 31,103.75615 31.296498,107.43744 31.875,111.03125 L 168.125,111.03125 C 168.7035,107.43744 169,103.75615 169,100 C 169,89.833368 166.76598,80.192655 162.8125,71.5 L 100.3125,71.5 L 100.3125,106.06157 L 78.84375,106.06157 L 78.84375,71.5 L 37.1875,71.5 z M 54.65625,112.25 C 49.07184,112.25 44.53125,116.75932 44.53125,122.34375 C 44.531248,127.92817 49.071829,132.5 54.65625,132.5 C 60.240691,132.50001 64.75,127.92817 64.75,122.34375 C 64.750012,116.75932 60.240679,112.25 54.65625,112.25 z M 124.5,112.25 C 118.91557,112.25 114.40624,116.75932 114.40625,122.34375 C 114.40625,127.92817 118.91556,132.50001 124.5,132.5 C 130.08442,132.5 134.625,127.92817 134.625,122.34375 C 134.625,116.75932 130.08441,112.25 124.5,112.25 z M 32.125,112.40625 C 32.749088,115.83795 33.637936,119.17122 34.75,122.40625 L 42.75,122.40625 C 42.75,118.21618 44.910476,114.52516 48.1875,112.40625 L 32.125,112.40625 z M 61.09375,112.40625 C 64.370774,114.52516 66.531249,118.21618 66.53125,122.40625 L 78.84375,122.40625 L 78.84375,112.40625 L 61.09375,112.40625 z M 100.3125,112.40625 L 100.3125,122.40625 L 112.625,122.40625 C 112.625,118.21618 114.78548,114.52516 118.0625,112.40625 L 100.3125,112.40625 z M 130.96875,112.40625 C 134.24577,114.52516 136.40625,118.21618 136.40625,122.40625 L 165.25,122.40625 C 166.36206,119.17122 167.25091,115.83795 167.875,112.40625 L 130.96875,112.40625 z M 54.65625,117.59375 C 57.297549,117.59375 59.4375,119.70246 59.4375,122.34375 C 59.43752,124.98503 57.297528,127.15625 54.65625,127.15625 C 52.014973,127.15625 49.875,124.98503 49.875,122.34375 C 49.874999,119.70246 52.014971,117.59375 54.65625,117.59375 z M 124.5,117.59375 C 127.14128,117.59375 129.28125,119.70246 129.28125,122.34375 C 129.28125,124.98503 127.14128,127.15625 124.5,127.15625 C 121.85872,127.15625 119.71873,124.98503 119.71875,122.34375 C 119.71875,119.70246 121.8587,117.59375 124.5,117.59375 z "
+     id="path3751"
+     sodipodi:nodetypes="csccscccccccsssccsssccccccccccccccccccccccsssccsssc" />
+</svg>
