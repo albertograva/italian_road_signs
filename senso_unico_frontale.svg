@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AJAX.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="885"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="2.0075"
+     inkscape:cx="77.572846"
+     inkscape:cy="110.56361"
+     inkscape:window-x="-232"
+     inkscape:window-y="72"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs5">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 100 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="200 : 100 : 1"
+       inkscape:persp3d-origin="100 : 66.666667 : 1"
+       id="perspective13" />
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <rect
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1873"
+     width="200"
+     height="200"
+     x="0"
+     y="0" />
+  <path
+     sodipodi:nodetypes="ccsccsscccssccsccc"
+     id="path1905"
+     d="M 91.053865,160.11199 L 91.053865,96.531712 C 91.053865,95.904093 90.595585,95.394852 90.034565,95.394852 C 89.901555,95.394852 89.771065,95.424993 89.657605,95.472603 L 73.524055,97.535783 C 73.260565,97.619143 72.982575,97.667473 72.696385,97.667473 C 71.085795,97.667473 69.780945,96.213323 69.780945,94.426453 C 69.780945,93.793233 69.943575,93.204853 70.226615,92.705422 L 100.07691,39.888013 L 129.77464,92.704723 C 130.05767,93.204153 130.21905,93.792533 130.21905,94.425753 C 130.21905,96.212623 128.91546,97.666763 127.30362,97.666763 C 127.01681,97.666763 126.74195,97.619143 126.47973,97.535083 L 110.48549,95.471913 C 110.36951,95.424293 110.24027,95.394163 110.10979,95.394163 C 109.54498,95.394163 109.08924,95.903402 109.08924,96.531013 L 109.08924,160.11129 L 91.053865,160.11129"
+     style="fill:#ffffff" />
+  <rect
+     style="fill:none;fill-opacity:0.54494413;fill-rule:evenodd;stroke:white;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1907"
+     width="190"
+     height="190"
+     x="5"
+     y="5"
+     rx="13.621876"
+     ry="13.621876" />
+</svg>

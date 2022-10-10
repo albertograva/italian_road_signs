@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="300"
+   id="svgSimboloStradaStatale"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="SR11.svg"
+   preserveAspectRatio="xMidYMid meet"
+   zoomAndPan="magnify">
+  <defs
+     id="defsSimboloStradaStatale" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.23"
+     inkscape:cx="346.33758"
+     inkscape:cy="133.32595"
+     inkscape:document-units="px"
+     width="700px"
+     height="300px"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svgSimboloStradaStatale"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadataSimboloStradaStatale">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill: rgb(0, 64, 139); fill-opacity: 1;"
+     id="rectSfondo"
+     width="700"
+     height="300"
+     x="0"
+     y="0"
+     rx="40"
+     ry="40" />
+  <rect
+     ry="25"
+     rx="25"
+     y="22.5"
+     x="22.5"
+     height="255"
+     width="655"
+     id="rectBordinoBianco"
+     style="fill: none; stroke: white; stroke-width: 15; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1;" />
+  <g
+     style="font-size:820.59832764px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Arial"
+     id="textSS"
+     transform="translate(1.613095,9.1619765)">
+    <path
+       d="m 199.01237,140.6457 31.79818,29.49025 c 1.795,1.53872 2.69253,3.46199 2.69259,5.76983 -6e-5,5.89814 -2.90634,8.84716 -8.71886,8.84708 -2.47894,8e-5 -4.48769,-0.85471 -6.02626,-2.56437 -3.33373,-3.50455 -6.06906,-7.00919 -8.20599,-10.51392 l -24.36151,14.74513 c 3.84653,6.24004 7.52213,11.28329 11.02679,15.12978 7.35116,7.69316 16.45466,11.53971 27.31054,11.53966 10.85576,5e-5 20.04475,-3.76102 27.56697,-11.28322 7.52206,-7.52208 11.28314,-16.71107 11.28323,-27.56698 -9e-5,-10.85573 -3.59021,-19.95923 -10.77035,-27.31054 l -6.79558,-6.79558 -31.79819,-29.36203 c -1.7951,-1.45299 -2.69263,-3.39763 -2.69259,-5.83394 -4e-5,-2.43599 0.89749,-4.55159 2.69259,-6.346817 1.53858,-1.538453 3.54733,-2.307763 6.02627,-2.307932 2.47884,1.69e-4 4.48759,0.897698 6.02627,2.692588 4.01745,4.017671 6.75278,7.479571 8.20598,10.385701 L 258.8904,94.487042 c -4.18855,-6.667184 -7.86415,-11.6677 -11.02679,-15.001563 -7.35126,-7.692915 -16.62572,-11.539466 -27.82341,-11.539664 -10.343,1.98e-4 -19.36102,3.675791 -27.0541,11.02679 -7.69312,7.693288 -11.53968,16.882271 -11.53966,27.566975 -2e-5,10.51406 3.67558,19.61757 11.02679,27.31054 z"
+       style="font-size:262.59146118px;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Transport Narrow (Alfabeto Stre';-inkscape-font-specification:'Transport Narrow (Alfabeto Stre'"
+       id="path3054"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 291.07324,66.920067 0,147.835913 32.82394,0 0,-54.62107 c 14.53136,-0.17086 26.15649,-5.17137 34.87543,-15.00157 7.94945,-8.54777 11.92422,-19.12578 11.92431,-31.73407 -9e-5,-12.60799 -3.97486,-23.228742 -11.92431,-31.862295 -8.71894,-9.744411 -20.34407,-14.616709 -34.87543,-14.616908 z m 33.84968,30.131345 c 10.00098,0.513042 15.34342,5.855478 16.02732,16.027308 -0.85486,5.47081 -2.60718,9.55242 -5.25696,12.24487 -2.64991,2.69272 -6.24003,3.95354 -10.77036,3.78244 z"
+       style="font-size:262.59146118px;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Transport Narrow (Alfabeto Stre';-inkscape-font-specification:'Transport Narrow (Alfabeto Stre'"
+       id="path3056"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 479.81085,98.590033 -31.54175,115.909517 33.9779,0 33.08037,-121.038256 0,-25.515479 -68.85332,0 0,30.644218 z"
+       style="font-size:262.59146118px;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Transport Narrow (Alfabeto Stre';-inkscape-font-specification:'Transport Narrow (Alfabeto Stre'"
+       id="path3058"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

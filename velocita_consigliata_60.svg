@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44+devel"
+   sodipodi:docname="Italian traffic signs - velocità consigliata 50.svg"
+   sodipodi:docbase="C:\Documents and Settings\Flanker\Desktop\Segnali"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="4.015"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <rect
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1873"
+     width="200"
+     height="200"
+     x="0"
+     y="0" />
+  <rect
+     y="1"
+     x="1"
+     height="198"
+     width="198"
+     id="rect1875"
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     transform="scale(1.03742,0.96393)"
+     style="font-size:116.37505341px;font-style:normal;font-weight:normal;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     d="M 91.335684,80.842011 L 68.322063,83.683199 C 67.715895,80.463251 66.702539,78.190303 65.281992,76.864348 C 63.861354,75.538531 62.10929,74.875587 60.025794,74.875517 C 56.27539,74.875587 53.35844,76.769711 51.274936,80.557893 C 49.759606,83.285495 48.642073,89.119395 47.922334,98.05961 C 50.687726,95.256354 53.528911,93.182289 56.445898,91.837408 C 59.362811,90.492634 62.73435,89.82022 66.560526,89.820165 C 73.985443,89.82022 80.264462,92.471993 85.397602,97.775491 C 90.53061,103.07908 93.097147,109.80322 93.097221,117.94792 C 93.097147,123.44091 91.799673,128.46034 89.204793,133.00622 C 86.609775,137.55213 83.010941,140.98996 78.40828,143.31973 C 73.805501,145.64951 68.037896,146.81439 61.105446,146.81439 C 52.771262,146.81439 46.085006,145.3938 41.04666,142.55261 C 36.00827,139.71143 31.983258,135.175 28.971612,128.94332 C 25.959946,122.71167 24.454118,114.46276 24.454123,104.19658 C 24.454118,89.157277 27.617304,78.14295 33.94369,71.153561 C 40.270048,64.16432 49.039839,60.669663 60.25309,60.669578 C 66.88248,60.669663 72.119731,61.436782 75.964858,62.97094 C 79.809872,64.505262 83.00147,66.749798 85.539661,69.704555 C 88.07772,72.659463 90.009726,76.371945 91.335684,80.842011 L 91.335684,80.842011 z M 48.717867,117.94792 C 48.717838,122.45597 49.854312,125.98851 52.127292,128.54556 C 54.400208,131.10264 57.184569,132.38117 60.480385,132.38116 C 63.510941,132.38117 66.049066,131.22576 68.094768,128.91491 C 70.140373,126.6041 71.163199,123.15679 71.163251,118.57299 C 71.163199,113.87559 70.10249,110.29569 67.98112,107.8333 C 65.859654,105.37097 63.226822,104.13979 60.082618,104.13975 C 56.862568,104.13979 54.163442,105.33309 51.985233,107.71965 C 49.806959,110.10628 48.717838,113.5157 48.717867,117.94792 L 48.717867,117.94792 z M 102.07538,103.40104 C 102.07537,87.566214 104.92603,76.485592 110.62735,70.159145 C 116.32865,63.832848 125.01321,60.669663 136.68104,60.669578 C 142.28761,60.669663 146.89033,61.361018 150.48922,62.743645 C 154.088,64.126438 157.02389,65.925855 159.2969,68.141902 C 161.56979,70.358103 163.35973,72.687875 164.66674,75.131224 C 165.97362,77.574713 167.02486,80.425369 167.82046,83.683199 C 169.37357,89.895985 170.15016,96.373887 170.15024,103.11692 C 170.15016,118.23207 167.5931,129.29375 162.47903,136.302 C 157.36483,143.31026 148.55716,146.81439 136.05598,146.81439 C 129.04769,146.81439 123.38426,145.69686 119.06568,143.46179 C 114.74706,141.22673 111.20505,137.94989 108.43964,133.63128 C 106.43186,130.56281 104.8692,126.36733 103.75168,121.04482 C 102.63414,115.72236 102.07537,109.8411 102.07538,103.40104 L 102.07538,103.40104 z M 125.03217,103.45787 C 125.03215,114.065 125.96974,121.31002 127.84495,125.19295 C 129.7201,129.07593 132.43817,131.0174 135.99916,131.01739 C 138.34783,131.0174 140.38402,130.19346 142.10771,128.54556 C 143.83132,126.89768 145.10038,124.29326 145.9149,120.73229 C 146.72933,117.17136 147.13657,111.62158 147.13662,104.08293 C 147.13657,93.021289 146.19897,85.586855 144.32384,81.779603 C 142.44861,77.972479 139.63584,76.068885 135.88551,76.068816 C 132.05934,76.068885 129.29392,78.010362 127.58924,81.893251 C 125.8845,85.776267 125.03215,92.964465 125.03217,103.45787 L 125.03217,103.45787 z "
+     id="text9983" />
+  <rect
+     style="fill:none;fill-opacity:0.54494413;fill-rule:evenodd;stroke:white;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1907"
+     width="190"
+     height="190"
+     x="5"
+     y="5"
+     rx="13.621876"
+     ry="13.621876" />
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="300"
+   height="75"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AJAX.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="3.9833333"
+     inkscape:cx="150"
+     inkscape:cy="37.5"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs5">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <rect
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1873"
+     width="300"
+     height="75"
+     x="0"
+     y="0" />
+  <path
+     style="fill:white"
+     d="M 237.25,7.20313 C 235.46313,7.20313 234.03125,8.49879 234.03125,10.10938 C 234.03125,10.39556 234.07289,10.68964 234.15625,10.95313 L 236.21875,24.70313 C 236.26636,24.81659 236.28125,24.94511 236.28125,25.07813 C 236.28125,25.63914 235.78387,26.10938 235.15625,26.10938 L 8.1875,26.10938 L 8.1875,48.89063 L 235.15625,48.89063 C 235.78387,48.89063 236.28125,49.32961 236.28125,49.89063 C 236.28125,50.02363 236.26636,50.15217 236.21875,50.26563 L 234.15625,64.04688 C 234.07289,64.31037 234.03125,64.60444 234.03125,64.89063 C 234.03125,66.50122 235.46313,67.79688 237.25,67.79688 C 237.88322,67.79688 238.50057,67.64242 239,67.35938 L 291.8125,37.48438 L 239,7.64063 C 238.50057,7.35759 237.88322,7.20313 237.25,7.20313 z "
+     id="path1905"
+     sodipodi:nodetypes="csccsccccsccsscccc" />
+  <rect
+     style="fill:none;fill-opacity:0.54494413;fill-rule:evenodd;stroke:white;stroke-width:1.99360085;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1907"
+     width="293.00641"
+     height="68.006401"
+     x="3.4967957"
+     y="3.4967957"
+     rx="9.4000416"
+     ry="9.3301401" />
+</svg>
