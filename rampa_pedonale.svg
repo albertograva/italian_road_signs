@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AJAX.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="4.015"
+     inkscape:cx="33.146856"
+     inkscape:cy="100"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs5">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+    <foreignObject
+       id="foreignObject1894"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <rect
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1873"
+     width="200"
+     height="200"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:none;fill-opacity:0.54494413;fill-rule:evenodd;stroke:white;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1907"
+     width="190"
+     height="190"
+     x="5"
+     y="5"
+     rx="13.621876"
+     ry="13.621876" />
+  <g
+     id="g1922"
+     transform="matrix(2.02634,0,0,2.02634,-98.21912,-98.17645)"
+     style="fill:white">
+    <path
+       style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 105.65625,45.15625 C 104.71176,45.152954 103.78362,45.36153 102.9375,45.78125 L 92.40625,51.03125 C 91.524168,51.475096 90.761033,52.133678 90.1875,52.9375 L 64.3125,88.84375 C 62.354041,91.57159 62.959651,95.35404 65.6875,97.3125 C 68.41535,99.270958 72.229044,98.665341 74.1875,95.9375 L 89.125,75.21875 L 92.375,83.40625 L 76.25,152.4375 C 75.430202,155.99283 77.632167,159.5552 81.1875,160.375 C 84.742833,161.1948 88.305202,158.96158 89.125,155.40625 L 102.5625,97.375 L 108.96875,120.5625 L 109.40625,122.1875 L 110.59375,123.40625 L 132.78125,146.09375 C 134.41087,147.8774 136.87268,148.63958 139.21875,148.0625 C 141.56483,147.48544 143.41497,145.64858 144.03125,143.3125 C 144.64755,140.97642 143.94359,138.50303 142.1875,136.84375 L 121.21875,115.40625 C 121.21875,115.40625 111.90625,82.25 111.90625,82.25 L 114.375,68.8125 L 124.15625,78.84375 L 125.46875,93.21875 C 125.55037,95.465454 126.8529,97.486177 128.875,98.46875 C 130.89711,99.451323 133.27697,99.230505 135.09375,97.90625 C 136.91055,96.582015 137.87895,94.350795 137.5625,92.125 L 136.09375,75.53125 C 135.97469,74.125211 135.39245,72.821699 134.40625,71.8125 L 110.03125,46.96875 C 108.8832,45.790756 107.30113,45.152096 105.65625,45.15625 z "
+       transform="matrix(0.493501,0,0,0.493501,48.47119,48.45014)"
+       id="path2798"
+       sodipodi:nodetypes="cccccsccccsccccccssccccccssccccc" />
+    <path
+       transform="matrix(1.643346,0,0,1.923064,-63.79134,-98.31175)"
+       d="m 99.999999,85.068153 c 0,1.608264 -1.525672,2.91202 -3.407683,2.91202 -1.882012,0 -3.407683,-1.303756 -3.407683,-2.91202 0,-1.608264 1.525671,-2.912019 3.407683,-2.912019 1.882011,0 3.407683,1.303755 3.407683,2.912019 z"
+       sodipodi:ry="2.9120197"
+       sodipodi:rx="3.4076829"
+       sodipodi:cy="85.068153"
+       sodipodi:cx="96.592316"
+       id="path1892"
+       style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+  </g>
+  <path
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 24.65625,171.09375 L 24.65625,180.09375 L 176.53125,162.09375 L 176.53125,153.09375 L 24.65625,171.09375 z "
+     id="rect3714"
+     sodipodi:nodetypes="ccccc" />
+</svg>

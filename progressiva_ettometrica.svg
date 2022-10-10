@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="200"
+   height="200"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <path
+     d="m 0,-0.61582947 200.9709,0 L 200.9709,200 0,200 0,-0.61582947 z"
+     id="rect2881"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <path
+     d="m 21.814432,2.8621521 157.645218,0 c 10.29357,0 18.58045,8.2868829 18.58045,18.5804539 l 0,157.645234 c 0,10.29357 -8.28688,18.58045 -18.58045,18.58045 l -157.645218,0 c -10.293571,0 -18.5804535,-8.28688 -18.5804535,-18.58045 l 0,-157.645234 c 0,-10.293571 8.2868825,-18.5804539 18.5804535,-18.5804539 z"
+     id="rect4614"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1" />
+  <g
+     transform="scale(0.9433082,1.0600989)"
+     id="text3071"
+     style="font-size:74.38760376px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Transport Heavy;-inkscape-font-specification:'Transport Heavy,'">
+    <path
+       d="m 33.035309,23.62492 17.216662,0 11.986284,38.319786 11.804674,-38.319786 16.708153,0 -19.759208,53.248157 -17.834137,0 z"
+       id="path3859"
+       style="font-family:Arial Black;-inkscape-font-specification:Arial Black" />
+    <path
+       d="m 96.780544,23.62492 16.490226,0 0,53.248157 -16.490226,0 z"
+       id="path3861"
+       style="font-family:Arial Black;-inkscape-font-specification:Arial Black" />
+    <path
+       d="m 125.69291,23.62492 16.49022,0 0,53.248157 -16.49022,0 z"
+       id="path3863"
+       style="font-family:Arial Black;-inkscape-font-specification:Arial Black" />
+    <path
+       d="m 154.60528,23.62492 16.49022,0 0,53.248157 -16.49022,0 z"
+       id="path3865"
+       style="font-family:Arial Black;-inkscape-font-specification:Arial Black" />
+  </g>
+  <g
+     transform="scale(0.94330821,1.0600989)"
+     id="text3075"
+     style="font-size:74.38760376px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Transport Heavy;-inkscape-font-specification:'Transport Heavy,'">
+    <path
+       d="m 101.55838,162.60922 -44.385574,0 c 0.508507,-4.38286 2.052193,-8.50541 4.631064,-12.36766 2.578858,-3.86223 7.415743,-8.42065 14.510668,-13.67526 4.334409,-3.22053 7.106991,-5.66621 8.317755,-7.33706 1.210705,-1.67078 1.816072,-3.25684 1.816103,-4.75819 -3.1e-5,-1.62235 -0.599344,-3.00864 -1.797942,-4.15888 -1.198657,-1.15016 -2.706021,-1.72526 -4.522098,-1.7253 -1.888771,4e-5 -3.432457,0.5933 -4.631064,1.77978 -1.198648,1.18656 -2.003786,3.28114 -2.415418,6.28372 l -14.819406,-1.19863 c 0.58115,-4.16489 1.646596,-7.41571 3.196343,-9.75247 1.549734,-2.33667 3.73511,-4.12856 6.556134,-5.37567 2.820998,-1.247 6.725617,-1.87053 11.713868,-1.87059 5.206134,6e-5 9.256041,0.59332 12.149733,1.77978 2.893619,1.18658 5.1698,3.00873 6.82855,5.46648 1.658664,2.45783 2.488014,5.21226 2.488064,8.26327 -5e-5,3.2448 -0.95047,6.34429 -2.851285,9.29845 -1.900896,2.95422 -5.357543,6.19899 -10.369952,9.73431 -2.978439,2.05827 -4.970098,3.49905 -5.97498,4.32233 -1.004937,0.82331 -2.185403,1.90087 -3.541402,3.23266 l 23.100839,0 z"
+       id="path3854"
+       style="font-family:Arial Black;-inkscape-font-specification:Arial Black" />
+    <path
+       d="m 133.37651,152.65697 -26.95097,0 0,-12.16789 26.95097,-32.03607 12.89434,0 0,32.72619 6.68326,0 0,11.47777 -6.68326,0 0,9.95225 -12.89434,0 z m 0,-11.47777 0,-16.74448 -14.23825,16.74448 z"
+       id="path3856"
+       style="font-family:Arial Black;-inkscape-font-specification:Arial Black" />
+  </g>
+  <path
+     d="m 29.557937,99.068249 139.232593,0"
+     id="path3079"
+     style="fill:none;stroke:#000000;stroke-width:6.80000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+</svg>

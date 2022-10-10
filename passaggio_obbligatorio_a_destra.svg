@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44+devel"
+   sodipodi:docname="Italian traffic signs - passaggio obbligatorio a sinistra.svg"
+   sodipodi:docbase="C:\Documents and Settings\Flanker\Desktop\Segnali"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="4.015"
+     inkscape:cx="100"
+     inkscape:cy="102.7794"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <g
+     id="g1901">
+    <path
+       id="path1873"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 29.297688,29.289303 C -9.7612748,68.339824 -9.7665727,131.66547 29.285855,170.72253 C 68.338285,209.77959 131.65642,209.77429 170.70231,170.71069 C 209.76128,131.66017 209.76657,68.334529 170.71415,29.277467 C 131.66172,-9.7795916 68.343581,-9.7742946 29.297688,29.289303 L 29.297688,29.289303 z " />
+    <path
+       id="path1875"
+       style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 29.996409,29.996388 C -8.6655026,68.6583 -8.6655037,131.34164 29.996409,170.00356 C 68.658323,208.66547 131.34167,208.66547 170.00358,170.00356 C 208.66549,131.34164 208.66549,68.658301 170.00358,29.996388 C 131.34166,-8.6655255 68.658323,-8.6655255 29.996409,29.996388 L 29.996409,29.996388 z " />
+    <path
+       id="path1877"
+       style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 31.410879,31.410957 C -6.469998,69.291834 -6.4700035,130.70886 31.410883,168.58974 C 69.291769,206.47063 130.70879,206.47062 168.58967,168.58975 C 206.47054,130.70887 206.47055,69.291847 168.58966,31.41096 C 130.70878,-6.4699256 69.291756,-6.4699201 31.410879,31.410957 z " />
+    <path
+       id="path1889"
+       d="M 53.195718,34.370295 L 117.18515,98.359727 C 117.77942,98.953994 118.74377,98.953994 119.33405,98.363711 C 119.474,98.223766 119.58276,98.057951 119.65705,97.893476 L 130.89101,75.177485 C 131.08933,74.82133 131.33605,74.48307 131.63716,74.181959 C 133.33174,72.48738 136.08154,72.491365 137.77346,74.183289 C 138.37303,74.782859 138.75904,75.511097 138.93413,76.281784 L 157.53803,157.69986 L 76.281117,138.93612 C 75.510427,138.76102 74.783521,138.3737 74.183944,137.77412 C 72.492021,136.0822 72.486725,133.33373 74.182629,131.63783 C 74.484401,131.33606 74.818679,131.09198 75.17417,130.89566 L 97.743576,119.80827 C 97.910707,119.73134 98.075195,119.62388 98.212479,119.4866 C 98.806746,118.89233 98.804095,117.93063 98.209835,117.33637 L 34.220403,53.34694 L 53.196383,34.37096"
+       style="fill:white" />
+  </g>
+</svg>

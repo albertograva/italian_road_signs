@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="200"
+   height="200"
+   id="svg2">
+  <defs
+     id="defs5" />
+  <rect
+     width="200"
+     height="200"
+     x="0"
+     y="0"
+     id="rect1873"
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="190"
+     height="190"
+     rx="13.621876"
+     ry="13.621876"
+     x="5"
+     y="5"
+     id="rect1907"
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <g
+     transform="translate(0.75,5.359375)"
+     id="g3651">
+    <path
+       d="m 99.25,46.5625 c -38.151935,0 -69.124999,30.973063 -69.125,69.125 0,9.5874 1.966606,18.72899 5.5,27.03125 l 127.25,0 c 3.53352,-8.30238 5.5,-17.44368 5.5,-27.03125 0,-38.151935 -30.97306,-69.125001 -69.125,-69.125 z"
+       id="path1905"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <path
+       d="m 99.25,50.5 c -36.014104,0 -65.187499,29.173394 -65.1875,65.1875 0,8.1461 2.32881,17.15438 5.059698,24.33908 L 107.3125,127.03125 c 0,0 0,-5.96875 0,-5.96875 0,-8.3905 5.57824,-15.1875 13.96875,-15.1875 8.3905,0 14.00001,6.797 14,15.1875 0,0 0,5.96875 0,5.96875 l 24.59468,13.74253 c 2.73095,-7.18472 4.56157,-16.93999 4.56157,-25.08628 0,-36.014104 -29.17339,-65.187501 -65.1875,-65.1875 z"
+       id="path3691"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+</svg>

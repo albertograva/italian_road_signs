@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44+devel"
+   sodipodi:docname="Italian traffic signs - inversione di marcia.svg"
+   sodipodi:docbase="C:\Documents and Settings\Flanker\Desktop\Temporanei\Segnali"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="4.015"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+    <foreignObject
+       id="foreignObject2798"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <rect
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1873"
+     width="200"
+     height="200"
+     x="0"
+     y="0" />
+  <rect
+     y="1"
+     x="1"
+     height="198"
+     width="198"
+     id="rect1875"
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;fill-opacity:0.54494413;fill-rule:evenodd;stroke:white;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1907"
+     width="190"
+     height="190"
+     x="5"
+     y="5"
+     rx="13.621876"
+     ry="13.621876" />
+  <g
+     id="g2827"
+     transform="translate(2.859606,2.11706)">
+    <g
+       id="g2782">
+      <path
+         style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 105.60399,17.559153 L 121.79328,17.43462 L 140.47322,62.515569 L 108.09465,62.515569 L 105.60399,17.559153 z "
+         id="path1885"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path2774"
+         d="M 109.58905,83.561644 L 146.07722,83.437111 L 183.18804,178.33126 L 115.8157,178.33126 L 109.58905,83.561644 z "
+         style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path2778"
+         d="M 98.754665,17.559153 L 82.565375,17.43462 L 63.885435,62.515569 L 96.264005,62.515569 L 98.754665,17.559153 z "
+         style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 94.769605,83.561644 L 58.281435,83.437111 L 21.170615,178.33126 L 88.542955,178.33126 L 94.769605,83.561644 z "
+         id="path2780"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccsccsscccssccsccccccccccc"
+       style="fill:white"
+       d="M 27.365763,78.744365 L 27.365764,82.713884 C 27.365763,83.112232 27.069129,83.435443 26.705989,83.435443 C 26.619893,83.435443 26.535434,83.416314 26.46199,83.386092 L 13.185383,79.994389 C 13.014827,79.941492 12.834887,79.910811 12.649644,79.910811 C 11.60714,79.910811 11.092747,80.195342 11.092748,81.329463 C 11.092748,81.731364 11.198017,82.104811 11.381222,82.42179 L 30.21226,116.61288 L 50.179202,84.151892 C 50.362408,83.834895 50.466863,83.461457 50.466863,83.059555 C 50.466863,81.925434 49.93127,81.222635 48.887952,81.222635 C 48.702302,81.222635 48.524399,81.252866 48.354662,81.306214 L 36.94957,83.187764 C 36.874498,83.217987 36.790849,83.237098 36.706392,83.237106 C 36.340797,83.237106 36.045797,82.913895 36.045797,82.515547 L 36.045796,78.612722 C 36.045796,75.964656 37.847611,74.341902 40.682856,74.341902 L 149.77473,74.341902 C 154.75366,74.341902 157.08923,76.406111 158.45847,79.098694 L 170.13155,105.9689 L 178.11598,105.9689 L 165.28234,76.563662 C 163.51329,72.564536 158.54293,67.072504 151.82412,67.072504 L 40.20536,67.072504 C 31.956592,67.072504 27.365765,74.016518 27.365765,78.744809"
+       id="path1889" />
+  </g>
+</svg>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="75"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44+devel"
+   sodipodi:docname="Italian traffic signs - cccc.svg"
+   sodipodi:docbase="C:\Documents and Settings\Flanker\Desktop\Temporanei\Segnali"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="2.1124815"
+     inkscape:cx="142.39139"
+     inkscape:cy="-48.11155"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+    <foreignObject
+       id="foreignObject1894"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+    <foreignObject
+       id="foreignObject13518"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <rect
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1873"
+     width="200"
+     height="75"
+     x="0"
+     y="0" />
+  <rect
+     y="1"
+     x="1"
+     height="73"
+     width="198"
+     id="rect1875"
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21.70000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+     d="M 59.58326,11.605708 L 32.48951,38.824458 L 57.20826,38.824458 C 59.741988,38.824458 61.879001,38.166989 63.64576,37.105708 L 60.11451,34.199458 C 58.427135,32.845391 57.719624,30.586617 58.33326,28.511958 C 58.946889,26.437301 60.774557,24.917802 62.92701,24.699458 C 64.380594,24.557199 65.789018,24.99643 66.89576,25.949458 L 69.64576,28.230708 C 70.290904,24.957065 69.725371,21.747819 67.98951,20.011958 L 59.58326,11.605708 z M 133.02076,15.980708 C 130.53676,15.980708 128.52076,17.996708 128.52076,20.480708 C 128.52076,22.964708 130.53676,24.980707 133.02076,24.980708 C 135.50476,24.980708 137.52076,22.964708 137.52076,20.480708 C 137.52076,17.996708 135.50476,15.980709 133.02076,15.980708 z M 133.83326,25.886958 C 132.34541,25.979758 130.75702,26.39945 129.48951,27.699458 C 129.04138,28.171123 128.79476,28.798894 128.80201,29.449458 L 128.80201,34.761958 L 118.67701,34.761958 C 117.77542,34.749206 116.94403,35.233214 116.48951,36.011958 C 116.03499,36.790702 116.03499,37.764464 116.48951,38.543208 C 116.94403,39.321951 117.77542,39.774709 118.67701,39.761958 L 135.55201,39.761958 C 136.80741,39.755999 137.86374,38.820016 138.02076,37.574458 L 139.14576,29.355708 C 139.26774,28.472879 138.91057,27.591864 138.20826,27.043208 C 136.82221,25.966577 135.32111,25.794157 133.83326,25.886958 z M 63.20826,27.543208 C 62.198517,27.645636 61.339871,28.351211 61.05201,29.324458 C 60.764147,30.297704 61.104191,31.345498 61.89576,31.980708 L 89.33326,54.699458 C 90.012908,55.32684 90.991639,55.536693 91.86451,55.230708 C 92.737383,54.924724 93.350339,54.145127 93.48951,53.230708 C 93.628679,52.316289 93.263078,51.407517 92.52076,50.855708 L 65.08326,28.136958 C 64.565616,27.691209 63.888128,27.476671 63.20826,27.543208 z M 140.52076,32.543208 L 139.45826,39.761958 L 157.33326,39.761958 L 150.11451,32.543208 L 140.52076,32.543208 z M 99.70826,35.043208 L 92.70826,39.761958 C 92.708261,39.761957 114.23951,39.761958 114.23951,39.761958 C 114.23951,39.761957 114.23951,35.043208 114.23951,35.043208 L 99.70826,35.043208 z M 90.42701,41.699458 C 89.168546,41.738934 87.942168,41.999031 86.80201,42.449458 L 90.42701,45.449458 C 90.60228,45.436293 90.779641,45.418208 90.95826,45.418208 C 94.822262,45.418209 97.95826,48.554209 97.95826,52.418208 C 97.958261,56.282206 94.822259,59.418208 90.95826,59.418208 C 87.682065,59.418209 84.938734,57.146861 84.17701,54.105708 L 80.08326,50.730708 C 79.661193,53.22025 80.123616,55.826864 81.45826,58.074458 C 83.486229,61.489634 87.207785,63.532975 91.17701,63.386958 L 156.27076,63.386958 C 160.23999,63.532975 163.96155,61.489634 165.98951,58.074458 C 168.01748,54.659283 168.01748,50.427133 165.98951,47.011958 C 163.96155,43.596782 160.23999,41.553441 156.27076,41.699458 L 91.17701,41.699458 C 90.928933,41.690332 90.672874,41.691746 90.42701,41.699458 z M 156.73951,45.418208 C 160.60351,45.418209 163.73951,48.554209 163.73951,52.418208 C 163.73951,56.282206 160.60351,59.418208 156.73951,59.418208 C 152.87551,59.418209 149.73951,56.282207 149.73951,52.418208 C 149.73951,48.554208 152.87551,45.418208 156.73951,45.418208 z M 156.73951,49.918208 C 155.35951,49.918208 154.23951,51.038207 154.23951,52.418208 C 154.23951,53.798208 155.35951,54.918208 156.73951,54.918208 C 158.11951,54.918208 159.23951,53.798207 159.23951,52.418208 C 159.23951,51.038208 158.11951,49.918206 156.73951,49.918208 z "
+     id="path5462" />
+  <rect
+     style="fill:none;fill-opacity:0.54494413;fill-rule:evenodd;stroke:black;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1907"
+     width="193.00047"
+     height="68.000465"
+     x="3.3362198"
+     y="3.4142532"
+     rx="10.665586"
+     ry="10.609208" />
+</svg>

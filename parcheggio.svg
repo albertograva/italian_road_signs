@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="600"
+   height="600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="20100603132545!Italian_traffic_signs_-_parcheggio.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1003"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.2633333"
+     inkscape:cx="300"
+     inkscape:cy="300"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2"
+     width="200px"
+     height="200px"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4" />
+  <rect
+     style="fill:#00408b;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect2380"
+     width="597"
+     height="597"
+     x="1.5"
+     y="1.5"
+     rx="0"
+     ry="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 47.9866,8.00406 c -22.07351,0 -40,17.92649 -40,40 l 0,504 c 0,22.07351 17.92649,40 40,40 l 504,0 c 22.07351,0 40.00003,-17.92648 40,-40 l 0,-504 c 0,-22.07351 -17.92646,-40 -40,-40 l -504,0 z m 0,10 504,0 c 16.70652,0 30,13.29351 30,30 l 0,504 c 3e-5,16.70648 -13.29351,30 -30,30 l -504,0 c -16.70649,0 -30,-13.29351 -30,-30 l 0,-504 c 0,-16.70649 13.29351,-30 30,-30 z"
+     id="rect2969" />
+  <path
+     sodipodi:nodetypes="cccccssccccsccc"
+     id="rect16151"
+     d="m 139.72387,70.8015 0,458.397 96.69312,0 0,-163.50538 73.24736,0 c 24.1552,0 47.39736,-1.8916 65.74898,-6.43492 79.0681,-19.57552 104.8628,-78.07343 104.8628,-141.12271 2e-4,-69.36925 -35.0554,-147.33399 -172.40239,-147.33399 l -168.14987,0 z m 96.69312,82.36821 71.45675,0 c 60.52219,0 81.33179,32.28458 80.91329,64.68591 -0.422,32.67511 -16.7648,65.46929 -79.68225,65.46929 l -72.68779,0 0,-130.1552 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878" />
+  </defs>
+  <path
+     d="M 170.70231,29.297691 C 209.76127,68.343582 209.76657,131.66171 170.71415,170.71414 C 131.66172,209.76657 68.343582,209.76127 29.297692,170.7023 C -9.7612781,131.65641 -9.7665681,68.338287 29.285852,29.285857 C 68.338282,-9.7665708 131.65642,-9.7612744 170.70231,29.297691 L 170.70231,29.297691 z "
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1873" />
+  <path
+     d="M 170.00359,29.99639 C 208.6655,68.658302 208.6655,131.34164 170.00359,170.00356 C 131.34168,208.66547 68.65833,208.66547 29.99642,170.00356 C -8.66549,131.34164 -8.66549,68.658303 29.99642,29.99639 C 68.65834,-8.6655237 131.34168,-8.6655237 170.00359,29.99639 L 170.00359,29.99639 z "
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1875" />
+  <path
+     d="M 168.58912,31.410959 C 206.47,69.291836 206.47,130.70886 168.58912,168.58974 C 130.70823,206.47063 69.29121,206.47062 31.41033,168.58975 C -6.47054,130.70887 -6.47055,69.291849 31.41034,31.410962 C 69.29122,-6.4699238 130.70824,-6.4699183 168.58912,31.410959 z "
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1877" />
+  <g
+     id="g3573"
+     transform="translate(0.62266293,0.58876129)">
+    <path
+       id="path13005"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999997"
+       d="M 59.660276,158.31195 91.466937,93.395809 88.344673,82.501576 70.678049,102.59413 c -5.593117,4.94172 -14.027724,-3.537812 -8.490764,-9.074781 L 93.533468,57.523463 c 3.470429,-2.414696 4.997869,-3.290725 8.479532,-5.12141 3.94214,-1.81945 4.77325,-1.527432 8.47953,1.830685 l 28.04423,28.268838 c 0.99957,1.066962 1.34773,0.831109 1.76329,3.245813 v 14.072645 c 0,6.120986 -11.60181,6.064836 -11.66919,-0.123541 l 0.17969,-9.894655 -10.36636,-10.006968 -4.12184,11.837645 c 8.77155,23.327135 15.90333,44.464185 24.61873,67.802545 3.95336,11.00654 -9.53527,16.37504 -14.95993,5.70543 l -21.85583,-58.07635 c -9.771119,19.96901 -18.486508,38.87106 -28.325007,58.78392 -5.593117,10.31021 -19.4973,2.35854 -14.140037,-7.53611" />
+    <path
+       id="path13013"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999997"
+       d="m 94.533037,27.895646 c 5.828973,0 10.546063,4.773245 10.546063,10.602223 0,5.82897 -4.71709,10.602215 -10.546063,10.602215 -5.828978,0 -10.602223,-4.773245 -10.602223,-10.602215 0,-5.828978 4.773245,-10.602223 10.602223,-10.602223" />
+  </g>
+  <path
+     style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 158.375,22.531247 22.531247,158.375 c 5.44651,7.2166 11.877151,13.64724 19.093751,19.09375 L 177.46875,41.624997 C 172.02224,34.408397 165.5916,27.977758 158.375,22.531247 Z"
+     id="rect1884" />
+</svg>
